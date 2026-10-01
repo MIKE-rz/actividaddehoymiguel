@@ -1,0 +1,9 @@
+Seleccione una opción: 3
+Ingrese un número entero positivo n: 5
+El valor de x es: 118.01916795759008
+Menú de opciones:
+1. Calcular salario
+2. Calcular x
+3. Calcular n factorial
+4. Salir
+Seleccione una opción: 4
